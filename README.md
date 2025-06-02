@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Submission URL
 
-https://roadmap.sh/projects/single-page-cv/solutions?u=67d9633ed564bded09cf7eb6
+https://roadmap.sh/projects/basic-html-website/solutions?u=67d9633ed564bded09cf7eb6
 
 ---
 
