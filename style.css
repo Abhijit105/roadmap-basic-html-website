@@ -103,3 +103,33 @@ tr:hover {
 .article-card img {
   width: 100%;
 }
+
+form {
+  border: 1px solid #ebebe7;
+  padding: 64px;
+}
+
+form,
+form div {
+  width: 100%;
+}
+
+form div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 32px;
+}
+
+form input,
+form textarea {
+  width: 100%;
+}
+
+textarea {
+  height: 64px;
+}
+
+label {
+  width: 96px;
+}
