@@ -1,0 +1,55 @@
+body {
+  height: 100vh;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  list-style-type: none;
+}
+
+a {
+  color: #404040;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000000;
+}
+
+main {
+  width: 80vw;
+  margin: 64px auto;
+}
+
+main section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+}
+
+main section h3 {
+  text-align: center;
+}
+
+.review-cards {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+  width: 100%;
+  gap: 32px;
+}
+
+.review-card {
+  border: 1px solid #ebebe7;
+  padding: 16px;
+}
