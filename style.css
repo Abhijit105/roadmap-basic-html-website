@@ -8,6 +8,17 @@ header {
   justify-content: space-between;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+caption {
+  font-family: 'WDXL Lubrifont TC', sans-serif;
+  text-align: center;
+}
+
 ul {
   display: flex;
   align-items: center;
@@ -76,4 +87,19 @@ th {
 
 tr:hover {
   background: #e6e9ef;
+}
+
+.article-cards {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+  gap: 32px;
+}
+
+.article-card {
+  flex: 1;
+}
+
+.article-card img {
+  width: 100%;
 }
