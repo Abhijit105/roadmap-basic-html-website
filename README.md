@@ -179,8 +179,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Repository Owner**: Abhijit105  
 **GitHub Profile**: [https://github.com/Abhijit105](https://github.com/Abhijit105)  
-**Project Link**: [https://github.com/Abhijit105/roadmap-basic-html-website](https://github.com/Abhijit105/roadmap-basic-html-website)
-**Hosted Link**:
+**Project Link**: [https://github.com/Abhijit105/roadmap-basic-html-website](https://github.com/Abhijit105/roadmap-basic-html-website)  
+**Hosted Link**: [https://roadmap-abhijit105-basic-html-website.netlify.app/](https://roadmap-abhijit105-basic-html-website.netlify.app/)
 
 # Project URL
 
