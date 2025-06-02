@@ -53,3 +53,27 @@ main section h3 {
   border: 1px solid #ebebe7;
   padding: 16px;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table caption {
+  margin-bottom: 16px;
+}
+
+th,
+td,
+tr {
+  border: 1px solid #ebebe7;
+  padding: 16px;
+}
+
+th {
+  text-align: start;
+}
+
+tr:hover {
+  background: #e6e9ef;
+}
